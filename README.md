@@ -35,7 +35,7 @@ Semantic discussion platform with threaded conversations, vector-based search, a
 ---
 
 ### [InfiniteDesk](https://github.com/valerian060/Infinite-Desk)
-**FastAPI · Sentence-Transformers · UMAP · HDBSCAN** • [Live](https://infinitedesk.onrender.com)
+**FastAPI · Sentence-Transformers · UMAP · HDBSCAN** • [Live](https://valerian060.github.io/Infinite-Desk/)
 
 Semantic knowledge platform with dense embeddings, UMAP dimensionality reduction, and HDBSCAN clustering. Async FastAPI backend powers interactive D3.js knowledge graph for contextual retrieval and automatic topic discovery.
 
