@@ -1,6 +1,6 @@
-# Hey, I'm a Backend Engineer 👋
+# Hey, I'm Muhammad Hasan 👋
 
-**Final Year CS Student** | Backend Engineer | Full-Stack Developer
+**Final Year CS Student** | 
 
 Building scalable systems, ML pipelines, and developer tools.
 
@@ -23,7 +23,7 @@ Building scalable systems, ML pipelines, and developer tools.
 ### [AI Diagnostic Orchestrator](https://github.com/valerian060/AI-Diagnostic-Orchestrator)
 **LangGraph · FastAPI · React · Qdrant · YOLO**
 
-Stateful multi-domain diagnostic engine with workflow routing through clarification, staging, and RAG-based nodes. Hybrid retrieval combines dense embeddings with structured signals. Integrated YOLO models ground diagnosis in detected components—**40% reduction in LLM token usage**.
+Stateful multi-domain diagnostic engine with workflow routing through clarification, staging, and RAG-based nodes. Hybrid retrieval combines dense embeddings with structured signals. Integrating YOLO models ground diagnosis in detected components.
 
 ---
 
