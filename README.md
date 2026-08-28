@@ -1,68 +1,72 @@
-# Hi, I'm a Backend Engineer 👋
+# Hey, I'm a Backend Engineer 👋
 
-**Final Year Computer Science Student** | Backend Engineer | Full-Stack Developer
+**Final Year CS Student** | Backend Engineer | Full-Stack Developer
 
----
-
-## About Me
-
-I'm passionate about building scalable backend systems, designing robust architectures, and working with modern tech stacks. I specialize in distributed systems, real-time data pipelines, and machine learning integrations.
-
-**Tech Focus:** Backend development, system design, ML pipelines, real-time data streaming, and observability.
+Building scalable systems, ML pipelines, and developer tools.
 
 ---
 
-## Technical Skills
+## 💻 Tech Stack
 
-**Languages:** Python, Java, C, JavaScript
-
-**Backend & APIs:** Litestar, FastAPI, REST APIs, Uvicorn, msgspec, Pytest, aioboto3
-
-**Databases & Caching:** PostgreSQL, Redis, MongoDB, Qdrant, MySQL, Amazon S3, Cloudflare R2
-
-**ML & Data:** Sentence Transformers, Vector Search, RAG, scikit-learn, Pandas, NumPy
-
-**Tools & Platforms:** Git, Docker, LangGraph, LangChain, Hugging Face Spaces, Render, OpenTelemetry, Grafana
-
-**Core CS:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, Java, C, JavaScript |
+| **Backend** | Litestar, FastAPI, REST APIs, Uvicorn, msgspec, Pytest, aioboto3 |
+| **Databases** | PostgreSQL, Redis, MongoDB, Qdrant, Amazon S3, Cloudflare R2 |
+| **ML & Data** | Sentence Transformers, RAG, Vector Search, scikit-learn, Pandas, NumPy |
+| **Tools** | Docker, Git, LangGraph, LangChain, OpenTelemetry, Grafana |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [AI Diagnostic Orchestrator](https://github.com/valerian060/AI-Diagnostic-Orchestrator)
-*LangGraph, FastAPI, React, Qdrant, YOLO*
+**LangGraph · FastAPI · React · Qdrant · YOLO**
 
-Multi-domain diagnostic engine with stateful workflow routing through clarification, staging, and RAG-based diagnostic nodes. Hybrid retrieval using dense embeddings and structured sparse signals. Integrated CNN/YOLO models for component detection—reduced LLM token consumption by 40%.
-
-### [Threaded – ML Powered Forum](https://minor-project-ii.onrender.com)
-*FastAPI, MongoDB, NLP* | [GitHub](https://github.com/valerian060/Threaded---NLP-Powered-Forum)
-
-Semantic discussion platform with threaded conversations, semantic search, keyword tagging, and automated summarization. Built JWT auth, 384-D vector search on MongoDB Atlas, async embedding generation, and independent Dockerized NLP inference API on Hugging Face Spaces.
-
-### [InfiniteDesk](https://github.com/valerian060/Infinite-Desk)
-*FastAPI, Sentence-Transformers, UMAP, HDBSCAN* | [Live](https://infinitedesk.onrender.com)
-
-Semantic knowledge platform with dense embeddings, UMAP dimensionality reduction, and HDBSCAN clustering for contextual retrieval. Async FastAPI service powering D3.js interactive knowledge graph with automatic topic discovery.
-
-### [KeyLines](https://github.com/valerian060/KeyLines)
-*JavaScript*
-
-Interactive keyboard shortcuts and hotkeys reference application.
-
-### [GlossGen](https://github.com/valerian060/GlossGen)
-*Python*
-
-Image to Text Glossary Generator for automated content extraction and documentation.
-
-### [SQLAlchemy Optimisations](https://github.com/valerian060/sqlalchemyOptimisations)
-*Python*
-
-Exploration and implementation of SQLAlchemy performance optimization techniques.
+Stateful multi-domain diagnostic engine with workflow routing through clarification, staging, and RAG-based nodes. Hybrid retrieval combines dense embeddings with structured signals. Integrated YOLO models ground diagnosis in detected components—**40% reduction in LLM token usage**.
 
 ---
 
-## Get In Touch
+### [Threaded – ML Powered Forum](https://minor-project-ii.onrender.com)
+**FastAPI · MongoDB · NLP** • [GitHub](https://github.com/valerian060/Threaded---NLP-Powered-Forum)
+
+Semantic discussion platform with threaded conversations, vector-based search, and TextRank summarization. Features 384-D embeddings on MongoDB Atlas, async processing, and a Dockerized NLP inference API on Hugging Face Spaces for real-time retrieval and summarization.
+
+---
+
+### [InfiniteDesk](https://github.com/valerian060/Infinite-Desk)
+**FastAPI · Sentence-Transformers · UMAP · HDBSCAN** • [Live](https://infinitedesk.onrender.com)
+
+Semantic knowledge platform with dense embeddings, UMAP dimensionality reduction, and HDBSCAN clustering. Async FastAPI backend powers interactive D3.js knowledge graph for contextual retrieval and automatic topic discovery.
+
+---
+
+### [KeyLines](https://github.com/valerian060/KeyLines)
+**Chrome Extension · NLP · JavaScript**
+
+Smart bookmarking extension that intelligently extracts and summarizes web content using TextRank and semantic analysis. Features one-click summarization, AI-generated keywords, local vault storage with IndexedDB, and similarity search. Reuses NLP inference API from Threaded forum—demonstrates active service reusability.
+
+---
+
+### [GlossGen](https://github.com/valerian060/GlossGen)
+**Python · Computer Vision**
+
+Image-to-text glossary generator for automated content extraction and documentation. Processes visual content to generate structured glossaries with OCR and semantic analysis.
+
+---
+
+### [SQLAlchemy Optimisations](https://github.com/valerian060/sqlalchemyOptimisations)
+**Python · Database Performance**
+
+Deep exploration of SQLAlchemy performance optimization techniques, query tuning, and ORM best practices for production systems.
+
+---
+
+## 📬 Get In Touch
 
 - **GitHub:** [github.com/valerian060](https://github.com/valerian060)
-- **Open to:** Backend roles, system design challenges, open-source contributions
+- **Open to:** Backend roles, system design challenges, open-source collaboration
+
+---
+
+*Final year student building production-grade systems. Always learning, always building.* ⚡
